@@ -1,9 +1,9 @@
 # <h1 align="center">Hi there, I'm Soham Ghosh 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamghosh-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/sohamghosh"><img src="https://img.shields.io/badge/LeetCode-Python%20Mastery-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ShadowIzzHerZ&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/ShadowIzzHerZ"><img src="https://img.shields.io/badge/LeetCode-Python%20Mastery-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/soham-ghosh-249615293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -96,12 +96,7 @@ class Developer:
 ### 📊 GitHub & Problem Solving Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamghosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamghosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowIzzHerZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
 
 ---
@@ -109,15 +104,15 @@ class Developer:
 ### 💬 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/sohamghosh">
+  <a href="https://github.com/ShadowIzzHerZ">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Ssohamranjan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/soham-ghosh-249615293/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
