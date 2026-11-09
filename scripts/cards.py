@@ -12,16 +12,16 @@ from pathlib import Path
 USER = "ShadowIzzHerZ"
 OUT = Path(__file__).resolve().parent.parent / "assets"
 
-# Palette taken from the avatar: navy night, cyan sky
-BG, PANEL = "#060A12", "#0A1220"
-TEXT, SECOND, MUTED = "#EAF6FF", "#8FA9C2", "#7F97B0"
-ACCENT = "#22C3F6"
-LEVELS = {  # contribution level -> cell colour, dim to bright cyan
-    "NONE": "#0F1B2B",
-    "FIRST_QUARTILE": "#0E4A66",
-    "SECOND_QUARTILE": "#127FA8",
-    "THIRD_QUARTILE": "#1BA9DB",
-    "FOURTH_QUARTILE": "#5FD8FF",
+# Palette from the Peer Tutoring Marketplace dark theme (css/theme.css)
+BG, PANEL = "#16140F", "#26221C"
+TEXT, SECOND, MUTED = "#F3F1EC", "#D9B8AB", "#A68D80"
+ACCENT, DEEP = "#FFB59F", "#B8431E"
+LEVELS = {  # contribution level -> cell colour, charcoal to peach
+    "NONE": "#2B2620",
+    "FIRST_QUARTILE": "#4A2318",
+    "SECOND_QUARTILE": "#862300",
+    "THIRD_QUARTILE": "#C4552B",
+    "FOURTH_QUARTILE": "#FFB59F",
 }
 SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
@@ -57,12 +57,12 @@ def fetch():
 
 
 def frame(w, h, inner):
-    """Card shell: dark panel, soft cyan glow in two corners, hairline borders."""
+    """Card shell: dark panel, soft terracotta glow in two corners, hairline borders."""
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
   <defs>
     <radialGradient id="g1" cx="0.12" cy="0" r="0.6"><stop offset="0" stop-color="{ACCENT}" stop-opacity="0.28"/><stop offset="1" stop-color="{ACCENT}" stop-opacity="0"/></radialGradient>
-    <radialGradient id="g2" cx="0.95" cy="1" r="0.5"><stop offset="0" stop-color="#3B6BFF" stop-opacity="0.18"/><stop offset="1" stop-color="#3B6BFF" stop-opacity="0"/></radialGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{ACCENT}" stop-opacity="0.7"/><stop offset="0.5" stop-color="{ACCENT}" stop-opacity="0.12"/><stop offset="1" stop-color="#3B6BFF" stop-opacity="0.5"/></linearGradient>
+    <radialGradient id="g2" cx="0.95" cy="1" r="0.5"><stop offset="0" stop-color="{DEEP}" stop-opacity="0.18"/><stop offset="1" stop-color="{DEEP}" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{ACCENT}" stop-opacity="0.7"/><stop offset="0.5" stop-color="{ACCENT}" stop-opacity="0.12"/><stop offset="1" stop-color="{DEEP}" stop-opacity="0.5"/></linearGradient>
   </defs>
   <rect width="{w}" height="{h}" rx="20" fill="{BG}"/>
   <rect width="{w}" height="{h}" rx="20" fill="url(#g1)"/>

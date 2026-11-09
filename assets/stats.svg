@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
   <defs>
-    <radialGradient id="g1" cx="0.12" cy="0" r="0.6"><stop offset="0" stop-color="#22C3F6" stop-opacity="0.28"/><stop offset="1" stop-color="#22C3F6" stop-opacity="0"/></radialGradient>
-    <radialGradient id="g2" cx="0.95" cy="1" r="0.5"><stop offset="0" stop-color="#3B6BFF" stop-opacity="0.18"/><stop offset="1" stop-color="#3B6BFF" stop-opacity="0"/></radialGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22C3F6" stop-opacity="0.7"/><stop offset="0.5" stop-color="#22C3F6" stop-opacity="0.12"/><stop offset="1" stop-color="#3B6BFF" stop-opacity="0.5"/></linearGradient>
+    <radialGradient id="g1" cx="0.12" cy="0" r="0.6"><stop offset="0" stop-color="#FFB59F" stop-opacity="0.28"/><stop offset="1" stop-color="#FFB59F" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.95" cy="1" r="0.5"><stop offset="0" stop-color="#B8431E" stop-opacity="0.18"/><stop offset="1" stop-color="#B8431E" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB59F" stop-opacity="0.7"/><stop offset="0.5" stop-color="#FFB59F" stop-opacity="0.12"/><stop offset="1" stop-color="#B8431E" stop-opacity="0.5"/></linearGradient>
   </defs>
-  <rect width="880" height="200" rx="20" fill="#060A12"/>
+  <rect width="880" height="200" rx="20" fill="#16140F"/>
   <rect width="880" height="200" rx="20" fill="url(#g1)"/>
   <rect width="880" height="200" rx="20" fill="url(#g2)"/>
   <rect x="0.75" y="0.75" width="878.5" height="198.5" rx="19.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
-  <rect x="32.0" y="32" width="192.0" height="136" rx="14" fill="#0A1220" fill-opacity="0.85" stroke="#22C3F6" stroke-opacity="0.22"/>
-  <text x="52.0" y="68" fill="#8FA9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Contributions</text>
-  <text x="52.0" y="122" fill="#22C3F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">542</text>
-  <text x="52.0" y="148" fill="#7F97B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">last 12 months</text>
-  <rect x="240.0" y="32" width="192.0" height="136" rx="14" fill="#0A1220" fill-opacity="0.85" stroke="#22C3F6" stroke-opacity="0.22"/>
-  <text x="260.0" y="68" fill="#8FA9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Active days</text>
-  <text x="260.0" y="122" fill="#EAF6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">31</text>
-  <text x="260.0" y="148" fill="#7F97B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">last 12 months</text>
-  <rect x="448.0" y="32" width="192.0" height="136" rx="14" fill="#0A1220" fill-opacity="0.85" stroke="#22C3F6" stroke-opacity="0.22"/>
-  <text x="468.0" y="68" fill="#8FA9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Public repos</text>
-  <text x="468.0" y="122" fill="#EAF6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">13</text>
-  <text x="468.0" y="148" fill="#7F97B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">not counting forks</text>
-  <rect x="656.0" y="32" width="192.0" height="136" rx="14" fill="#0A1220" fill-opacity="0.85" stroke="#22C3F6" stroke-opacity="0.22"/>
-  <text x="676.0" y="68" fill="#8FA9C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Stars</text>
-  <text x="676.0" y="122" fill="#EAF6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">12</text>
-  <text x="676.0" y="148" fill="#7F97B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">across all repos</text>
+  <rect x="32.0" y="32" width="192.0" height="136" rx="14" fill="#26221C" fill-opacity="0.85" stroke="#FFB59F" stroke-opacity="0.22"/>
+  <text x="52.0" y="68" fill="#D9B8AB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Contributions</text>
+  <text x="52.0" y="122" fill="#FFB59F" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">542</text>
+  <text x="52.0" y="148" fill="#A68D80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">last 12 months</text>
+  <rect x="240.0" y="32" width="192.0" height="136" rx="14" fill="#26221C" fill-opacity="0.85" stroke="#FFB59F" stroke-opacity="0.22"/>
+  <text x="260.0" y="68" fill="#D9B8AB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Active days</text>
+  <text x="260.0" y="122" fill="#F3F1EC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">29</text>
+  <text x="260.0" y="148" fill="#A68D80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">last 12 months</text>
+  <rect x="448.0" y="32" width="192.0" height="136" rx="14" fill="#26221C" fill-opacity="0.85" stroke="#FFB59F" stroke-opacity="0.22"/>
+  <text x="468.0" y="68" fill="#D9B8AB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Public repos</text>
+  <text x="468.0" y="122" fill="#F3F1EC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">13</text>
+  <text x="468.0" y="148" fill="#A68D80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">not counting forks</text>
+  <rect x="656.0" y="32" width="192.0" height="136" rx="14" fill="#26221C" fill-opacity="0.85" stroke="#FFB59F" stroke-opacity="0.22"/>
+  <text x="676.0" y="68" fill="#D9B8AB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Stars</text>
+  <text x="676.0" y="122" fill="#F3F1EC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="-1">12</text>
+  <text x="676.0" y="148" fill="#A68D80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">across all repos</text>
 </svg>
