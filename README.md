@@ -1,14 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Soham Ghosh" />
-</picture>
-
-Student engineer in India. I build ML systems and the apps around them.\
-`python · fastapi · pytorch · kotlin · supabase`
+<img src="assets/header.svg" width="100%" alt="Soham Ghosh. I build ML systems and the apps around them" />
 
 Most of what I build starts at a hackathon and keeps going after it. I care about the part after the demo: measuring whether the thing works, writing down where it doesn't, and fixing it.
 
-[LinkedIn](https://www.linkedin.com/in/soham-ghosh-249615293/) · [Zotify live](https://zotify.antideploy.app)
+[LinkedIn](https://www.linkedin.com/in/soham-ghosh-249615293/)
+
+<img src="assets/stats.svg" width="100%" alt="GitHub stats for the last 12 months" />
 
 ## Recent work
 
@@ -36,3 +32,7 @@ Scores a live transaction stream with an explainable rules and statistics engine
 - [Random projects](https://github.com/ShadowIzzHerZ/Random-Projects): LeetCode solutions in Java
 
 </details>
+
+## Activity
+
+<img src="assets/activity.svg" width="100%" alt="Contribution calendar for the last year" />
