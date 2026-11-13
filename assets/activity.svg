@@ -8,8 +8,8 @@
   <rect width="880" height="230" rx="20" fill="url(#g1)"/>
   <rect width="880" height="230" rx="20" fill="url(#g2)"/>
   <rect x="0.75" y="0.75" width="878.5" height="228.5" rx="19.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
-  <text x="70.5" y="52" fill="#F3F1EC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600">607 contributions in the last year</text>
-  <text x="809.5" y="52" fill="#A68D80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end">updated 12 Nov 2026</text>
+  <text x="70.5" y="52" fill="#F3F1EC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600">619 contributions in the last year</text>
+  <text x="809.5" y="52" fill="#A68D80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end">updated 13 Nov 2026</text>
   <rect x="70.5" y="88" width="11" height="11" rx="2.5" fill="#2B2620"><title>0 on 2025-11-09</title></rect>
   <rect x="70.5" y="102" width="11" height="11" rx="2.5" fill="#2B2620"><title>0 on 2025-11-10</title></rect>
   <rect x="70.5" y="116" width="11" height="11" rx="2.5" fill="#2B2620"><title>0 on 2025-11-11</title></rect>
@@ -378,7 +378,8 @@
   <rect x="798.5" y="102" width="11" height="11" rx="2.5" fill="#4A2318"><title>3 on 2026-11-09</title></rect>
   <rect x="798.5" y="116" width="11" height="11" rx="2.5" fill="#4A2318"><title>4 on 2026-11-10</title></rect>
   <rect x="798.5" y="130" width="11" height="11" rx="2.5" fill="#2B2620"><title>0 on 2026-11-11</title></rect>
-  <rect x="798.5" y="144" width="11" height="11" rx="2.5" fill="#2B2620"><title>0 on 2026-11-12</title></rect>
+  <rect x="798.5" y="144" width="11" height="11" rx="2.5" fill="#4A2318"><title>6 on 2026-11-12</title></rect>
+  <rect x="798.5" y="158" width="11" height="11" rx="2.5" fill="#4A2318"><title>6 on 2026-11-13</title></rect>
   <text x="695.5" y="214" fill="#A68D80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">Less</text>
   <rect x="705.5" y="204" width="11" height="11" rx="2.5" fill="#2B2620"/>
   <rect x="719.5" y="204" width="11" height="11" rx="2.5" fill="#4A2318"/>
